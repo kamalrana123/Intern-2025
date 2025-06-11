@@ -1,4 +1,4 @@
-# 🌟 Welcome Interns – Summer 2025 🌟
+# 🌟 Welcome Interns – 2025 🌟
 
 Greetings from **Innovation Labs BU**!  
 We are thrilled to welcome you to our vibrant and forward-thinking team. As part of **Innovation Labs**, you'll be contributing to exciting projects at the forefront of technology and innovation.
