@@ -1,4 +1,19 @@
-# Idea Management Tool — Project Scope Summary
+# Idea Management Tool — Project Scope Document
+
+# 📊 Overview: Idea Management System
+
+---
+
+## 📝 What is an Idea Management System?
+
+An **Idea Management System (IMS)** is a platform that allows individuals or organizations to collect, evaluate, track, and manage ideas or suggestions submitted by users, employees, or customers.
+
+It creates a centralized space to:
+
+Capture innovative ideas
+Organize and categorize them
+Track progress from submission to implementation
+Facilitate collaboration & transparency
 
 ---
 
