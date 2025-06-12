@@ -1,4 +1,4 @@
-# 📊 Project Scope: Task Tracker
+# 📊 Project: Task Tracker
 
 ---
 
